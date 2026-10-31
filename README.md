@@ -4,6 +4,11 @@
 
 ```text
 ┌── NIGHTWING OPERATIONS ──────────┐
+
+<p align="center"><samp>SYSTEM STATUS: ONLINE · STATIC PROFILE CONSOLE</samp></p>
+
+```text
+┌── NIGHTWING OPERATIONS ──────────┐
 │ ID       : MJ-ANTHONY             │
 │ SPECIALTY: AI / BACKEND           │
 │ LOCATION : VIT-AP, INDIA          │
@@ -11,7 +16,7 @@
 └───────────────────────────────────┘
 ```
 
-<h1 align="center">Hi, I'm Anthony</h1>
+<h1 align="center">Hi , I'm Anthony</h1>
 <h3 align="center">AI / ML &amp; Backend Development</h3>
 <p align="center">Computer Science student from India, exploring machine learning and backend systems.</p>
 
@@ -25,7 +30,7 @@ I enjoy turning ideas into practical solutions using Python, FastAPI, Next.js, a
 
 Inspired by **Nightwing's independence, discipline, and determination**, I believe in carving my own path, learning from every challenge, and building things that make a difference.
 
-**Learn. Build. Adapt. Keep going.**
+**Learn. Build. Adapt. Keep going.** 
 
 <br clear="right" />
 
