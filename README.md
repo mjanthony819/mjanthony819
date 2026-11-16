@@ -4,20 +4,6 @@ I'm a dual degree student in computer science from India.
 
 Most of my work sits between two interests: medical imaging you can actually explain, and finance tools for Indian markets.
 
-**Featured project**
-
-<table>
-  <tr>
-    <td valign="top">
-      <a href="https://github.com/mjanthony819/backtestlab-nse"><img src="./assets/teasers/backtestlab.png" alt="BacktestLab NSE equity curve for a Reliance SMA crossover backtest" width="100%" /></a>
-      <br /><br />
-      <a href="https://github.com/mjanthony819/backtestlab-nse"><strong>BacktestLab NSE</strong></a>: Backtest simple rules on NSE stocks, costs included, against buy-and-hold and the Nifty. Built to be hard to fool yourself with.
-      <br /><br />
-      <sub><a href="https://github.com/mjanthony819/backtestlab-nse">Code</a> · <a href="https://mjanthony819.github.io/backtestlab-nse/">Live app</a> · <a href="https://colab.research.google.com/github/mjanthony819/backtestlab-nse/blob/main/ml_walk_forward_nse.ipynb">Colab</a></sub>
-    </td>
-  </tr>
-</table>
-
 A few projects I've been building:
 
 <table>
